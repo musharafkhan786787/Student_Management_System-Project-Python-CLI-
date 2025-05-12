@@ -26,17 +26,16 @@ A clean, simple, and user-friendly **Command Line Interface (CLI)** application 
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 
-Click here to visit the repository:  
-[https://github.com/musharafkhan786787/Student_Management_System-Project-Python-CLI-](https://github.com/musharafkhan786787/Student_Management_System-Project-Python-CLI-)
-
 Then run the following commands in your terminal:
 ```bash
 git clone https://github.com/musharafkhan786787/Student_Management_System-Project-Python-CLI-.git
 cd Student_Management_System-Project-Python-CLI-
 
+
 ## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
 Feel free to fork the repository and submit a pull request.
+
 
 # 👨‍💻 Author  
 Developed with 💙 by Musharaf Khan
