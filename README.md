@@ -31,8 +31,11 @@ git clone https://github.com/musharafkhan786787/Student_Management_System-Projec
 cd Student_Management_System-Project-Python-CLI-
 
 
-## 🙌 Author
-    Developed with ❤️ by Musharaf khan
-📧 [musharafkhan786787@gmail.com]
-LinkedIn  [https://www.linkedin.com/in/musharaf-khan-5676a2287?utm_source=share&utm
-                     _campaign=share_via&utm_content=profile&utm_medium=android_app]
+## 👨‍💻 Author
+Developed with 💙 by Musharaf Khan
+
+GitHub: @musharafkhan786787
+
+Email: musharafkhan786787@gmail.com
+
+LinkedIn:[(https://www.linkedin.com/in/musharaf-khan-5676a2287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )]
