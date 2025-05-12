@@ -30,8 +30,11 @@ A clean, simple, and user-friendly **Command Line Interface (CLI)** application 
 git clone https://github.com/musharafkhan786787/Student_Management_System-Project-Python-CLI-.git
 cd Student_Management_System-Project-Python-CLI-
 
+## 🤝 Contributing
+Contributions, suggestions, and improvements are welcome!
+Feel free to fork the repository and submit a pull request.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 Developed with 💙 by Musharaf Khan
 
 GitHub: @musharafkhan786787
@@ -39,3 +42,4 @@ GitHub: @musharafkhan786787
 Email: musharafkhan786787@gmail.com
 
 LinkedIn:[(https://www.linkedin.com/in/musharaf-khan-5676a2287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )]
+   
