@@ -12,8 +12,9 @@ The **Student Directory Management System** is a Python-based command-line appli
 
 ## Installation
 1. Clone the repository to your local machine.
-2. Ensure Python is installed (Python 3.x recommended).
-3. Run the program using the command:
+   https://github.com/musharafkhan786787/Student_Management_System-Project-Python-CLI-/tree/main
+3. Ensure Python is installed (Python 3.x recommended).
+4. Run the program using the command:
    ```bash
    python Students.py
 
